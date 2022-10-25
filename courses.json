@@ -1,15 +1,110 @@
 [
     {
-        "id": "1",
-        "title": "Information About UI/UX Design",
-        "image": "",
-        "lessons": "10",
-        "Duration": "1 hour",
-        "price": 100,
-        "coins": 1000,
-        "catogory": {
-            "catagory_id": "1",
-            "catogoryName": "Web Development"
-        }
+        "catagory_id": "1",
+        "catogoryName": "Web Development",
+        "courses": [
+            {
+                "id": "1",
+                "title": "Information About UI/UX Design",
+                "image": "",
+                "lessons": "10",
+                "Duration": "1 hour",
+                "price": 100,
+                "coins": 1000
+            },
+            {
+                "id": "2",
+                "title": "Certified JavaScript",
+                "image": "",
+                "lessons": "12",
+                "Duration": "1 hour",
+                "price": 150,
+                "coins": 1500
+            },
+            {
+                "id": "3",
+                "title": "React: Complete Guide",
+                "image": "",
+                "lessons": "15",
+                "Duration": "1.30 hour",
+                "price": 200,
+                "coins": 2000
+            },
+            {
+                "id": "4",
+                "title": "Web Design And Developing Technology",
+                "image": "",
+                "lessons": "10",
+                "Duration": "1 hour",
+                "price": 120,
+                "coins": 1200
+            }
+        ]
+    },
+    {
+        "catagory_id": "2",
+        "catogoryName": "Electronics & Communication",
+        "courses": [
+            {
+                "id": "5",
+                "title": "Digital Communication",
+                "image": "",
+                "lessons": "18",
+                "Duration": "2 hour",
+                "price": 140,
+                "coins": 1400
+            },
+            {
+                "id": "6",
+                "title": "Antenna And Web Propagation",
+                "image": "",
+                "lessons": "12",
+                "Duration": "1 hour",
+                "price": 150,
+                "coins": 1500
+            },
+            {
+                "id": "7",
+                "title": "Mobile Communication",
+                "image": "",
+                "lessons": "22",
+                "Duration": "3 hour",
+                "price": 250,
+                "coins": 2500
+            }
+        ]
+    },
+    {
+        "catagory_id": "3",
+        "catogoryName": "Programming And Data Structure",
+        "courses": [
+            {
+                "id": "8",
+                "title": "C Pogramming",
+                "image": "",
+                "lessons": "18",
+                "Duration": "2 hour",
+                "price": 140,
+                "coins": 1400
+            },
+            {
+                "id": "9",
+                "title": "Start with Python",
+                "image": "",
+                "lessons": "12",
+                "Duration": "1 hour",
+                "price": 150,
+                "coins": 1500
+            },
+            {
+                "id": "10",
+                "title": "Java: complete",
+                "image": "",
+                "lessons": "22",
+                "Duration": "3 hour",
+                "price": 250,
+                "coins": 2500
+            }
+        ]
     }
 ]
