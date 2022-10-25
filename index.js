@@ -26,5 +26,8 @@ app.get('/category/:id', (req, res) => {
 app.get('/course/:id', (req, res) => {
     const id = req.params.id
     const selectedCourse = courses.map(course => course.courses.find(each => each.id === id))
-    res.send(selectedCourse)
+    const course = selectedCourse.find(course => course !== undefined)
+    // const course = selectedCourse.find(course => typeof course === "object")
+    // console.log(course)
+    res.send(course)
 })
