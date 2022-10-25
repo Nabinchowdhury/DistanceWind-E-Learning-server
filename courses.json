@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "title": "Information About UI/UX Design",
+        "image": "",
+        "lessons": "10",
+        "Duration": "1 hour",
+        "price": 100,
+        "coins": 1000,
+        "catogory": {
+            "catagory_id": "1",
+            "catogoryName": "Web Development"
+        }
+    }
+]
