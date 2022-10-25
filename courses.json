@@ -6,7 +6,7 @@
             {
                 "id": "1",
                 "title": "Information About UI/UX Design",
-                "image": "",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSssKUUbEbFZNBlNCmn7ljr-xV3-cu0ZcnwDpHrO0alhMo_H_7s5fldl0ehJ2Pgi4wzdc&usqp=CAU",
                 "lessons": "10",
                 "Duration": "1 hour",
                 "price": 100,
@@ -15,7 +15,7 @@
             {
                 "id": "2",
                 "title": "Certified JavaScript",
-                "image": "",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qyFh2sbSyyet03SjeEkOSUHKtqVEcTI3mRxztwn30yUUymu6j9UAZNf6XrXL_xxnaRE&usqp=CAU",
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
@@ -24,7 +24,7 @@
             {
                 "id": "3",
                 "title": "React: Complete Guide",
-                "image": "",
+                "image": "https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/7/25/16c26df71149456a~tplv-t2oaga2asx-image.image",
                 "lessons": "15",
                 "Duration": "1.30 hour",
                 "price": 200,
@@ -33,7 +33,7 @@
             {
                 "id": "4",
                 "title": "Web Design And Developing Technology",
-                "image": "",
+                "image": "https://media.istockphoto.com/photos/developing-programming-and-coding-technologies-with-website-design-in-picture-id1364358321?b=1&k=20&m=1364358321&s=170667a&w=0&h=PpEXtpe9YpTdAORO2BgW1cKe6I2ZrNr9Sx_lcsPX_XI=",
                 "lessons": "10",
                 "Duration": "1 hour",
                 "price": 120,
@@ -48,7 +48,7 @@
             {
                 "id": "5",
                 "title": "Digital Communication",
-                "image": "",
+                "image": "https://thumbs.dreamstime.com/b/community-business-team-digital-communication-concept-50420239.jpg",
                 "lessons": "18",
                 "Duration": "2 hour",
                 "price": 140,
@@ -56,8 +56,8 @@
             },
             {
                 "id": "6",
-                "title": "Antenna And Web Propagation",
-                "image": "",
+                "title": "Antenna And Wave Propagation",
+                "image": "https://www.emsopedia.org/wp-content/uploads/2020/12/Deception-Techniques-in-Radar-ECM-general-1.jpg",
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
@@ -66,7 +66,7 @@
             {
                 "id": "7",
                 "title": "Mobile Communication",
-                "image": "",
+                "image": "https://img.lovepik.com/photo/50035/5458.jpg_wh860.jpg",
                 "lessons": "22",
                 "Duration": "3 hour",
                 "price": 250,
@@ -81,7 +81,7 @@
             {
                 "id": "8",
                 "title": "C Pogramming",
-                "image": "",
+                "image": "https://media.istockphoto.com/photos/software-developer-programming-code-on-computer-picture-id488651322?k=20&m=488651322&s=612x612&w=0&h=I6LUWK6gSg9VM9NQX10EmtAgyJxoxUEcq2Yh7_VwXh4=",
                 "lessons": "18",
                 "Duration": "2 hour",
                 "price": 140,
@@ -90,7 +90,7 @@
             {
                 "id": "9",
                 "title": "Start with Python",
-                "image": "",
+                "image": "https://assets.entrepreneur.com/content/3x2/2000/1629213968-Ent-Python.jpg",
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
@@ -99,7 +99,7 @@
             {
                 "id": "10",
                 "title": "Java: complete",
-                "image": "",
+                "image": "https://axbit.group/upload/iblock/866/8668a41631a6f2bdb8836210a0460cb7.jpg",
                 "lessons": "22",
                 "Duration": "3 hour",
                 "price": 250,
