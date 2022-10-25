@@ -1,7 +1,7 @@
 [
     {
-        "catagory_id": "1",
-        "catogoryName": "Web Development",
+        "categoryId": "1",
+        "categoryName": "Web Development",
         "courses": [
             {
                 "id": "1",
@@ -42,8 +42,8 @@
         ]
     },
     {
-        "catagory_id": "2",
-        "catogoryName": "Electronics & Communication",
+        "categoryId": "2",
+        "categoryName": "Electronics & Communication",
         "courses": [
             {
                 "id": "5",
@@ -75,8 +75,8 @@
         ]
     },
     {
-        "catagory_id": "3",
-        "catogoryName": "Programming And Data Structure",
+        "categoryId": "3",
+        "categoryName": "Programming And Data Structure",
         "courses": [
             {
                 "id": "8",
