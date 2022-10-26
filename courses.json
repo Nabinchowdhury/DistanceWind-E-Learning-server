@@ -10,7 +10,8 @@
                 "lessons": "10",
                 "Duration": "1 hour",
                 "price": 100,
-                "coins": 1000
+                "coins": 1000,
+                "details": "A user experience (UX) designer works on a team to create products that provide meaningful and enjoyable experiences for users. They are concerned with the entire process of product design, from branding to design to useability. UI (user interface) designers build interfaces in software or other computerized devices."
             },
             {
                 "id": "2",
@@ -19,7 +20,8 @@
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
-                "coins": 1500
+                "coins": 1500,
+                "details": "This is an advanced certification and covers all the topics related to graphics-based programming and object-oriented programming. The certification verifies the candidate's ability to use control structures, syntax, data types, operators and expressions."
             },
             {
                 "id": "3",
@@ -28,7 +30,8 @@
                 "lessons": "15",
                 "Duration": "1.30 hour",
                 "price": 200,
-                "coins": 2000
+                "coins": 2000,
+                "details": "Hello and Welcome to our coding course, React the complete guide. In this course, you will learn the essential tools and skills to design, develop and deploy React applications from scratch. we have 17 years of programming experience in international companies like ROI Vision in Montreal. Currently, I am a coding instructor on Udemy with 23k students."
             },
             {
                 "id": "4",
@@ -37,7 +40,8 @@
                 "lessons": "10",
                 "Duration": "1 hour",
                 "price": 120,
-                "coins": 1200
+                "coins": 1200,
+                "details": "The main language of the web is JavaScript, presented on most web pages and web apps on the client-side. This means that the web technologies are mostly based on JavaScript, while server-side technologies are varied (. NET, Java, PHP, Ruby, or even server-side JavaScript Node. js)."
             }
         ]
     },
@@ -52,7 +56,8 @@
                 "lessons": "18",
                 "Duration": "2 hour",
                 "price": 140,
-                "coins": 1400
+                "coins": 1400,
+                "details": "Digital communication is the physical transfer of data over Point-To-Point or Point-To-Multipoint communication channel. It is transfer of discrete messages. Digital communication plays a vital role in today's electronic world. In digital communication the data transfer rate depends upon it'scharacterictics."
             },
             {
                 "id": "6",
@@ -61,7 +66,8 @@
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
-                "coins": 1500
+                "coins": 1500,
+                "details": "Typically an antenna consists of an arrangement of metallic conductors (elements), electrically connected (often through a transmission line) to the receiver or transmitter. Antennas act as transformers between conducted waves and electromagnetic waves propagating freely in space."
             },
             {
                 "id": "7",
@@ -70,7 +76,8 @@
                 "lessons": "22",
                 "Duration": "3 hour",
                 "price": 250,
-                "coins": 2500
+                "coins": 2500,
+                "details": "Mobile Communication is the use of technology that allows us to communicate with others in different locations without the use of any physical connection (wires or cables). Mobile communication makes our life easier, and it saves time and effort."
             }
         ]
     },
@@ -85,7 +92,8 @@
                 "lessons": "18",
                 "Duration": "2 hour",
                 "price": 140,
-                "coins": 1400
+                "coins": 1400,
+                "details": "C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support."
             },
             {
                 "id": "9",
@@ -94,7 +102,8 @@
                 "lessons": "12",
                 "Duration": "1 hour",
                 "price": 150,
-                "coins": 1500
+                "coins": 1500,
+                "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
             },
             {
                 "id": "10",
@@ -103,7 +112,8 @@
                 "lessons": "22",
                 "Duration": "3 hour",
                 "price": 250,
-                "coins": 2500
+                "coins": 2500,
+                "details": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages."
             }
         ]
     }
